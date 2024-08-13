@@ -1,1 +1,2 @@
 "# Paradigma3" 
+"# Paradigma" 
